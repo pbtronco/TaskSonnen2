@@ -1,0 +1,20 @@
+{
+  "placares": [
+      {
+          "jogo_id": "01",
+          "jogo_times": [
+              "BRASIL", "ARGENTINA"
+          ],
+          "jogo_placar": [5, 2],
+          "jogo_vencedor": "BRASIL"
+      },
+      {
+          "jogo_id": "02",
+          "jogo_times": [
+              "BRASIL", "FRANÇA"
+          ],
+          "jogo_placar": [2, 3],
+          "jogo_vencedor": "FRANÇA"
+      }
+  ]
+}
